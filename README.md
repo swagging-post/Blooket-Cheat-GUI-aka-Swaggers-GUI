@@ -4,7 +4,7 @@ An upload, but fixed of Minesraft2 & 05Konz's Blooket Cheats due to the cease an
 <p align="center">Cheats now being managed by SC0TT, the safekeeper.</p>
 <h3 align="center"><a href="https://discord.gg/e2UXEwjcsg">Support Server | #tickets </a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets (WIP)</a></h2>
-<h3 align="center"><a href="#monster-brawl">List Of Cheats</a></h3>
+<h3 align="center"><a href="#list-of-cheats-1">List Of Cheats</a></h3>
 
 ## Information
 
