@@ -3,9 +3,8 @@ A reupload, but currently being fixed of **Minesraft2** & **05Konz's** Blooket C
 
 <p align="center">Cheats now being managed by SC0TT until further notice.</p>
 <h3 align="center"><a href="https://discord.gg/e2UXEwjcsg">Support Server | #tickets </a></h2>
-<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets (WIP)</a></h2>
 <h3 align="center"><a href="#list-of-cheats-1">List Of Cheats</a></h3>
-
+<h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets (WIP)</a></h2>
 ## Information
 
 <details>
