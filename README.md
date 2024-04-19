@@ -1,5 +1,5 @@
 # READ FOR IMPORTANT INFO!
-A reupload, but currently being fixed of Minesraft2 & 05Konz's Blooket Cheats due to the cease and desist and webpack attempting to be disabled from the official Blooket website.
+A reupload, but currently being fixed of **Minesraft2** & **05Konz's** Blooket Cheats due to the cease and desist and webpack attempting to be disabled from the official Blooket website.
 
 <p align="center">Cheats now being managed by SC0TT, the safekeeper.</p>
 <h3 align="center"><a href="https://discord.gg/e2UXEwjcsg">Support Server | #tickets </a></h2>
