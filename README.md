@@ -68,9 +68,8 @@ Minesraft2 was sent a cease and desist from Blooket and 05Konz got his account p
 
 <details><summary><h2>List of Cheats</h2></summary>
 
-* [React GUI](cheats/reactGui.js)
-* [GUI](cheats/gui.js)
-* [Mobile GUI](cheats/mobileGui.js)
+* [GUI](cheats/gui/gui.js)
+* [Mobile GUI](cheats/gui/mobileGui.js)
 ### [Monster Brawl](cheats/brawl)
 * [Double Enemy XP](cheats/brawl/doubleEnemyXp.js)
 * [Half Enemy Speed](cheats/brawl/halfEnemySpeed.js)
