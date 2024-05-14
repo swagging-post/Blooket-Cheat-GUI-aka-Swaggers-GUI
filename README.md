@@ -1,5 +1,5 @@
-# 05Konz and Minesraft2 made the GUI plus like all of the cheats
-### some cheats got banned though, so i'm working on fixing them due to blooket still banning them fast
+# 05Konz and Minesraft2 made the GUI + ALL CHEATS (some patched though)
+### i'm working on fixing the patched cheats due to Blooket still patching them fast
 
 ![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
 # READ FOR IMPORTANT INFO!
