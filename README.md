@@ -1,4 +1,5 @@
-# UPDATES WILL BE DELAYED DUE MY SICKNESS, SORRY!
+# 05Konz and Minesraft2 made the GUI plus like all of the cheats
+### some cheats got banned though, so i'm working on fixing them due to blooket still banning them fast
 
 ![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
 # READ FOR IMPORTANT INFO!
@@ -52,7 +53,7 @@ Battle Royale is a gamemode that works almost entirely on the host's end. The on
 
 <details><summary><h3>What happened to Minesraft2 and 05Konz?</h3></summary>
 
-Minesraft2 was sent a cease and desist from Blooket and 05Konz got his account perm banned, so I offered to take over since they wouldn't be able to.
+Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, so I took over since they wouldn't be able to and try to fix the cheats.
 </details>
 
 <details>
