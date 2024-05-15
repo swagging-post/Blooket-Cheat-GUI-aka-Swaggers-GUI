@@ -1,8 +1,8 @@
-# 05Konz and Minesraft2 made the GUI + ALL CHEATS (some patched though)
-### i'm working on fixing the patched cheats due to Blooket still patching them fast
-
+## NEW / FIXED CHEATS | Supported Website: (anything).blooket.com‎‎/(anything)
+### GLOBAL: BYPASS NICKNAME FILTER, PIN GUESSER, USE ANY BLOOK, USE ANY BANNER
+### CRYPTO: ANTI-HACK, SCREEN FLOODING
 ![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
-# READ FOR IMPORTANT INFO!
+# READ FOR IMPORTANT INFO! | V1.1
 A reupload, but currently being fixed of **Minesraft2** & **05Konz's** Blooket Cheats due to the cease and desist and webpack attempting to be disabled from the official Blooket website.
 
 <p align="center">Cheats now being managed by SC0TT until further notice.</p>
@@ -74,8 +74,8 @@ Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, 
   
 * [GUI](cheats/gui/gui.js)
 * [GUI Bookmarklet](cheats/gui/gui.min.js)
-* [Mobile GUI](cheats/gui/mobileGui.js)
-* [Mobile GUI Bookmarklet](cheats/gui/mobileGui.min.js)
+* [Mobile GUI outdated](cheats/gui/mobileGui.js)
+* [Mobile GUI Bookmarklet outdated](cheats/gui/mobileGui.min.js)
 ### Monster Brawl
 * Double Enemy XP
 * Half Enemy Speed
@@ -102,6 +102,8 @@ Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, 
 * Set Crypto
 * Set Password
 * Steal Players Crypto
+* Anti-Hack
+* Screen Flooding
 ### Deceptive Dinos
 * Auto Choose
 * Rock ESP
@@ -142,6 +144,7 @@ Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, 
 * Host Any Gamemode
 * Remove Name Limit
 * Remove Random Name
+* Bypass Name Filter
 * Sell Cheap Duplicates
 * Sell Duplicate Blooks
 * Simulate Pack
@@ -149,6 +152,8 @@ Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, 
 * Spam Buy Blooks
 * Subtle Highlight Answers
 * Use Any Blook
+* Use Any Banner
+* Pin Guesser
 #### Intervals
 * Auto Answer
 * Highlight Answers
