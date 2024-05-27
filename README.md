@@ -8,6 +8,12 @@ A reupload, but currently being fixed of **Minesraft2** & **05Konz's** Blooket C
 <h3 align="center"><a href="https://discord.gg/">Support Server | #tickets </a></h2>
 <h3 align="center"><a href="#list-of-cheats-1">List Of Cheats</a></h3>
 
+<div align="center">
+  <a href="https://star-history.com/#swagging-post/blooket-cheat-gui&Date">
+    <img src="https://api.star-history.com/svg?repos=swagging-post/blooket-cheat-gui&type=Date" alt="Star History Chart">
+  </a>
+</div>
+
 ## Information
 
 <details>
