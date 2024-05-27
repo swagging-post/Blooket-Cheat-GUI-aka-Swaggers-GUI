@@ -1,7 +1,7 @@
 ## NEW / FIXED CHEATS | I'll put them in the List Of Cheats later 
 Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 ![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
-# READ FOR IMPORTANT INFO! | V1.2.5
+# READ FOR IMPORTANT INFO! | V1.3
 A reupload, but currently being fixed of **Minesraft2** & **05Konz's** Blooket Cheats due to the cease and desist and webpack attempting to be disabled from the official Blooket website.
 
 <p align="center">Cheats now being managed by SC0TT until further notice.</p>
