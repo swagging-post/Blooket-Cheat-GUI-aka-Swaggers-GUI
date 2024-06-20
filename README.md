@@ -1,3 +1,4 @@
+# PAUSED UNTIL JUNE 28TH-JULY 6TH
 Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 ![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
 # READ FOR IMPORTANT INFO! | V1.4
