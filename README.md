@@ -1,4 +1,4 @@
-# july 20th, a whole buncha stuff coming out (v2)
+# merging all GUIs into one, should've done that Konz.
 Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 ![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
 # READ FOR IMPORTANT INFO! | V1.7
