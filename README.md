@@ -84,138 +84,146 @@ Minesraft2 was sent a cease and desist from Blooket and 05Konz was perm banned, 
 * [GUI Bookmarklet](cheats/gui/gui.min.js)
 * [Mobile GUI outdated](cheats/gui/mobileGui.js)
 * [Mobile GUI Bookmarklet outdated](cheats/gui/mobileGui.min.js)
-### Monster Brawl
-* Double Enemy XP
-* Half Enemy Speed
-* Instant Kill
-* Invincibility
-* Kill Enemies
-* Magnet
-* Max Current Abilities
-* Next Level
-* Remove Obstacles
-* Reset Health
-### Cafe
-* Max Items
-* Remove Customers
-* Reset Abilities
-* Set Cash
-* Stock Food
-### Crypto Hack
-* Always Triple
-* Auto Guess
-* Choice ESP
-* Password ESP
-* Remove Hack
-* Set Crypto
-* Set Password
-* Steal Players Crypto
-* Anti-Hack
-* Screen Flooding
-### Deceptive Dinos
-* Auto Choose
-* Rock ESP
-* Set Fossils
-* Set Multiplier
-* Stop Cheating
-### Tower of Doom
-* Fill Deck
-* Max Cards
-* Max Health
-* Max Stats
-* Min Enemy
-* Set Coins
-### Factory
-* Choose Blook
-* Free Upgrades
-* Max Blooks
-* Remove Glitches
-* Send Glitch
-* Set All Mega Bot
-* Set Cash
-### Fishing Frenzy
-* Frenzy
-* Always Frenzy
-* Remove Distraction
-* Send Distraction
-* Set Lure
-* Set Weight
-### Flappy Blook
-* Set Score
-* Toggle Ghost
-### Global
-* Auto Answer
-* Change Blook Ingame
-* Every Answer Correct
-* Flood Game
-* Get Daily Rewards
-* Highlight Answers
-* Host Any Gamemode
-* Remove Name Limit
-* Remove Random Name
-* Bypass Name Filter
-* Sell Cheap Duplicates
-* Sell Duplicate Blooks
-* Simulate Pack
-* Simulate Unlock
-* Spam Buy Blooks
-* Subtle Highlight Answers
-* Use Any Blook
-* Use Any Banner
-* Pin Guesser
-#### Intervals
-* Auto Answer
-* Highlight Answers
-* Percent Auto Answer
-* Subtle Highlight Answers
-### Gold Quest
-* Always Triple
-* Auto Choose
-* Chest ESP
-* Reset All Gold
-* Reset Players Gold
-* Set Gold
-* Swap Gold
-### Crazy Kingdom
-* Choice ESP
-* Choice ESP Loop
-* Disable Toucan
-* Max Stats
-* Set Guests
-* Skip Guest
-### Racing
-* Instant Win
-### Battle Royale
-* Auto Answer
-### Blook Rush
-* Set Blooks
-* Set Defense
-### Tower Defense
-* Earthquake
-* Max Towers
-* Remove Ducks
-* Remove Enemies
-* Remove Obsticles
-* Set Damage
-* Set Round
-* Set Tokens
-### Tower Defense 2
-* Max Towers
-* Remove Enemies
-* Set Coins
-* Set Health
-* Set Round
-### Pirate's Voyage
-* Max Levels
-* Set Doubloons
-* Start Heist
-* Swap Doubloons
-* Take Doubloons
-### Santa's Workshop
-* Remove Distractions
-* Send Distraction
-* Set Toys
-* Set Toys Per Question
-* Swap Toys
+### Global:
+- Auto Answer
+- Highlight Answers
+- Subtle Highlight Answers
+- Percent Auto Answer
+- Auto Answer
+- Highlight Answers
+- Use any Banner
+- Spam Buy Blooks
+- Freeze Host
+- Live Player Count
+- Use Any Blook
+- Use Occupied Blooks
+- Get 3rd Party Blooks
+- Set Custom Blook (IMG URL)
+- Change Blook Ingame
+- Get Daily Rewards
+- Every Answer Correct
+- Subtle Highlight Answers
+- Remove Name Limit
+- Remove Random Name
+- Bypass Nickname Filter
+- Pin Guesser
+- Sell Duplicate Blooks
+
+### Host:
+- Host Any Gamemode
+- Free Player Slots
+- Instant Leaderboard Updates
+- Kick All Players
+
+### Voyage:
+- Max Levels
+- Set Doubloons
+- Start Heist
+- Swap Doubloons
+- Take Doubloons
+
+### Brawl:
+- Double Enemy XP
+- Half Enemy Speed
+- Instant Kill
+- Invincibility
+- Magnet
+- Max Current Abilities
+- Next Level
+- Remove Obstacles
+- Kill Enemies
+- Reset Health
+
+### Cafe:
+- Max Items
+- Remove Customers
+- Reset Abilities
+- Set Cash
+- Stock Food
+
+### Crypto:
+- Choice ESP
+- Password ESP
+- Show Player's Password
+- Always Triple
+- Always Quintuple
+- Always Decuple
+- Anti-Hack (Crashes Players)
+- Anti-Hack (Freezes Players)
+- Auto Guess
+- Remove Hack
+- Set Crypto
+- Set Password
+- Screen Flooding
+- Steal Player's Crypto
+
+### Factory:
+- Choose Blook
+- Free Upgrades
+- Max Blooks
+- Remove Glitches
+- Send Glitch
+- Set All MegaBot
+- Set Cash
+
+### Fishing:
+- Frenzy
+- Always Frenzy
+- Remove Distractions
+- Send Distraction
+- Set Lure
+- Set Weight
+
+### Gold:
+- Always Triple
+- Always Quintuple
+- Always Decuple
+- Auto Choose
+- Chest ESP
+- Remove Lose 25%-50%
+- Reset Players Gold
+- Set Gold
+- Swap Gold
+- Reset All Players' Gold
+
+### Kingdom:
+- Choice ESP
+- Disable Tax Toucan
+- Max Stats
+- Set Guests
+- Skip Guest
+
+### Racing:
+- Instant Win
+- Set Questions
+
+### Royale:
+- Auto Answer (Toggle)
+- Auto Answer
+
+### Rush:
+- Set Blooks
+- Set Defense
+
+### Workshop:
+- Remove Distractions
+- Send Distraction
+- Set Toys
+- Set Toys Per Question
+- Swap Toys
+
+### Settings:
+- Import Settings
+- Export Settings
+- Defaults
+- Background Color
+- Category List Color
+- Info Color
+- Button Color
+- Enabled Toggle Color
+- Disabled Toggle Color
+- Text Color
+- Input Color
+- Content Color
 </details>
 
