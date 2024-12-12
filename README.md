@@ -1,10 +1,11 @@
 # THE BEST, PRO, BLOOKET CHEAT GUI OUT THERE!
 Supported Websites (fixed): (anything).blooket.com‎‎/(anything)
 ![blooketcheatgui](https://github.com/swagging-post/Blooket-Cheat-GUI/assets/160811072/7f842fb9-9c94-480b-b594-55850b091fe3)
-# READ FOR IMPORTANT INFO! | V1.9
+# READ FOR IMPORTANT INFO! | V2.
 A reupload, but currently being fixed of my stolen Blooket Cheats.
 
 <p align="center">Cheats now being managed by SC0TT until further notice.</p>
+<p align="center">🚨 IF BEN READS THIS: THIS IS A PARODY GUI, THIS DOESN'T WORK CORRECTLY! 🚨</p>
 <h3 align="center"><a href="https://discord.gg/ZDDcsr9SQZ">Support Server | #tickets </a></h2>
 <h3 align="center"><a href="#list-of-cheats-1">List Of Cheats</a></h3>
 
